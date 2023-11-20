@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8" />
+<title></title>
+<link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+
+<body class="encuadre">
+
+<h1 align="center">ANIMALES</h1>
+
+<ul class="menu">
+
+<img src=https://www.lavanguardia.com/files/image_449_253/files/fp/uploads/2022/02/19/62111a4c9e130.r_d.3000-2000.jpeg width="300">
+	<li><a href="Páginaweb2.html">Tigres</li>
+	<li><a href="Paginaweb3.html">Hurones</li>
+</ul>

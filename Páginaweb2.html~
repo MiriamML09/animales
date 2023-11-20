@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+<link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+
+<body class="encuadre">
+
+<h1>TIGRES</h1>
+<p>El tigre es una de las especies​ de la subfamilia de los panterinos pertenecientes al género Panthera, vive en las selvas tropicales, pastizales, sabanas e incluso manglares.
+Los tigres son los más emblemáticos de los grandes felinos. Su hermoso pelaje negro y anaranjado, además de sus largos bigotes blancos, son fuente de admiración e inspiración para muchos. Pero a pesar de ser tan venerados, también son vulnerables a la extinción.</p>
+<img src="https://media.gettyimages.com/id/671259036/es/foto/white-bengal-panthera-tigris.jpg?s=612x612&w=0&k=20&c=ETimuz_-jtQ16Zw5XALLU-76cZHJ4clgPDZb6G0_SA0="  width="300">
+<img src="https://www.ambientum.com/wp-content/uploads/2019/02/tigre-bengala.jpg" width="300"
+</body>
+</html>
